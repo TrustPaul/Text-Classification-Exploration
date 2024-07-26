@@ -7,7 +7,7 @@ This research  investigates the influence of model scale, pretraining objectives
 
 ## Authors
 
-- **Author Name**
-  - **Institution:** [Institution Name](https://institutionwebsite.com)
-  - **Email:** [author@example.com](mailto:author@example.com)
+- **Paul Trust**
+  - **Institution:** [University College Cork](https://www.ucc.ie/en/)
+  - **Email:** [120222601@umail.ucc.ie](mailto:120222601@umail.ucc.ie)
 
