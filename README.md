@@ -11,3 +11,9 @@ This research  investigates the influence of model scale, pretraining objectives
   - **Institution:** [University College Cork](https://www.ucc.ie/en/)
   - **Email:** [120222601@umail.ucc.ie](mailto:120222601@umail.ucc.ie)
 
+- **Rosane Minghim**
+  - **Institution:** [University College Cork](https://www.ucc.ie/en/)
+  - **Email:** [r.minghim@cs.ucc.ie](mailto:r.minghim@cs.ucc.ie)
+
+
+
