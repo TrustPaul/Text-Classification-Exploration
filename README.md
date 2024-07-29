@@ -8,14 +8,10 @@ This research  investigates the influence of model scale, pretraining objectives
 ## Code Setup
 The code runs in python3
 ### The first step is creating a virtual environment and installing the necessary packages, make sure you have GPUs as many notebooks will need them to run
-
-### Breakdown
-
-1. **Create a Virtual Environment**: The command `python -m venv venv` creates a new virtual environment named `venv`.
-2. **Activate the Virtual Environment**: The activation command varies depending on the operating system. For Windows, use `.\venv\Scripts\activate`, and for macOS/Linux, use `source venv/bin/activate`.
-3. **Install Dependencies**: The `pip install -r requirements.txt` command installs all the packages listed in the `requirements.txt` file.
-
-This formatting helps users understand the steps needed to set up and run your project.
+```bash
+python -m venv venv
+source venv/bin/activate  # Use .\venv\Scripts\activate on Windows
+pip install -r requirements.txt
 
 
 ## Code Description
