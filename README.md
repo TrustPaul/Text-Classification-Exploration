@@ -30,6 +30,16 @@ Here you perfom text classification using prompting, you can change the prompt t
 Here if you want to generate synthentic data and want to do ensembling for different model outputs, you use this file
 
 
+## Running your program
+Just run the programm with python name of the file after making some changes like including your file path
+
+For example to run text_classification_with_prompting.py, just run
+```
+python text_classification_with_prompting.py
+}
+```
+
+
 ## Authors
 
 - **Paul Trust**
