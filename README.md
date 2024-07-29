@@ -10,7 +10,7 @@ The code runs in python3
 ### The first step is creating a virtual environment and installing the necessary packages, make sure you have GPUs as many notebooks will need them to run
 ```
 python -m venv venv
-source venv/bin/activate  # Use .\venv\Scripts\activate on Windows
+source venv/bin/activate 
 pip install -r requirements.tx
 ```
 
