@@ -8,10 +8,11 @@ This research  investigates the influence of model scale, pretraining objectives
 ## Code Setup
 The code runs in python3
 ### The first step is creating a virtual environment and installing the necessary packages, make sure you have GPUs as many notebooks will need them to run
-```bash
+```
 python -m venv venv
 source venv/bin/activate  # Use .\venv\Scripts\activate on Windows
-pip install -r requirements.txt ```
+pip install -r requirements.tx
+```
 
 
 ## Code Description
