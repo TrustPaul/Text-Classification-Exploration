@@ -36,7 +36,6 @@ Just run the programm with python name of the file after making some changes lik
 For example to run text_classification_with_prompting.py, just run
 ```
 python text_classification_with_prompting.py
-}
 ```
 
 
